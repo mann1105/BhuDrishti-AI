@@ -3,3 +3,6 @@ A streamlit app that combines power of large language models(LLMs) with satellit
 - Results are displayed into a clear and informative summary, highlighting key trends, changes, and statistics related to the user's query.
 - With the extracted data from user's query a visualization of land cover is displayed using google earth engine(gee).
 - For eg. User enters query "Uttarakhand flood". LLM understands the context from the prompt template provided and it extracts the Longitude, Latitude, Event date(here 16/06/2013) and passes it to gee and displays the land cover from 15/06/2013-20/06/2013.
+
+
+Working demo with limited functionality: https://www.youtube.com/watch?v=hVZhj6LZjTY 
